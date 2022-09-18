@@ -1,0 +1,10 @@
+@media (max-width:600px) {
+    .showcase{
+        &-content{
+            display: block;
+            img{
+                width: 100%;
+            }
+        }
+    }
+}
